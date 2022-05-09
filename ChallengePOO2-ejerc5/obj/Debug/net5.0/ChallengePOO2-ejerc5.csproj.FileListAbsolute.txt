@@ -1,0 +1,16 @@
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\bin\Debug\net5.0\ChallengePOO2-ejerc5.exe
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\bin\Debug\net5.0\ChallengePOO2-ejerc5.deps.json
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\bin\Debug\net5.0\ChallengePOO2-ejerc5.runtimeconfig.json
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\bin\Debug\net5.0\ChallengePOO2-ejerc5.runtimeconfig.dev.json
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\bin\Debug\net5.0\ChallengePOO2-ejerc5.dll
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\bin\Debug\net5.0\ref\ChallengePOO2-ejerc5.dll
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\bin\Debug\net5.0\ChallengePOO2-ejerc5.pdb
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.csproj.AssemblyReference.cache
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.AssemblyInfoInputs.cache
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.AssemblyInfo.cs
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.dll
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ref\ChallengePOO2-ejerc5.dll
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.pdb
+C:\Users\Gian\source\repos\ChallengePOO2-ejerc5\ChallengePOO2-ejerc5\obj\Debug\net5.0\ChallengePOO2-ejerc5.genruntimeconfig.cache

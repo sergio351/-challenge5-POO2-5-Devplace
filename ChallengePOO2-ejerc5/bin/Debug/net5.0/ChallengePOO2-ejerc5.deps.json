@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChallengePOO2-ejerc5/1.0.0": {
+        "runtime": {
+          "ChallengePOO2-ejerc5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChallengePOO2-ejerc5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengePOO2-ejerc5", "ChallengePOO2-ejerc5\ChallengePOO2-ejerc5.csproj", "{13E57031-D796-4CAF-842C-992E243A0483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E57031-D796-4CAF-842C-992E243A0483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E57031-D796-4CAF-842C-992E243A0483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E57031-D796-4CAF-842C-992E243A0483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E57031-D796-4CAF-842C-992E243A0483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F108DC1-AB96-4C1D-95F4-C164B87D334E}
+	EndGlobalSection
+EndGlobal
